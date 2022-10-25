@@ -55,7 +55,8 @@ class ImportPopeyesInvoices extends Command
                     break;            
                 }
 
-                // initialize totals
+                // Set invoice vars/ initialize totals
+                $vendor = "Popeyes";
                 $total = 0;
                 $subtotal = 0;
                 $taxes = 0;

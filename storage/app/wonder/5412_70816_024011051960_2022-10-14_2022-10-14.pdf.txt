@@ -1,0 +1,93 @@
+AREA#       401                        RTE#  401105                       SLS#  401105                    PAGE        1
+
+3254635 NS LIMITED.                                                                         DATE    October 14, 2022
+
+                                                     3254635 NS LIMITED.                    DOC #00024011051960
+
+                                             INDEPENDENT DIST. OF
+
+                                                     WONDER BRANDS              Please remit payment to:
+
+                                             CONT : MARC MCDONALD               Wonder Brands Inc.
+
+                                                     PH# 902 529 0565           C/O T10534
+
+                                                     CSR# 1 800 922 1896        PO BOX 4388, STN A
+
+                                             HST# 807655402RT0001               TORONTO, ON, M5W 3S1
+
+                                                                                GST: 76253 8742 RT0001
+
+                                       INVOICE # 00024011051960
+
+CUST#       5412     70816       Ship to: BURGER KING #19926                    Bill to: CAPE D'OR HOLDINGS LIMITED
+
+PO NUMBER:                             1 FALKLAND ST                                    3617 BARRINGTON ST
+
+                                       LUNENBURG, NS, B0J 2C0                           HALIFAX, NS, B3K 2Y3
+
+                                                      SALES
+
+UNITS       ITEM   DESCRIPTION                        UPC                 RTL W-SALE COST  MARGIN%  AMOUNT               TAX
+
++18         1219   BK 3.5" SESAME HAMS 12s           006340001219         6.43  +2.2200     65.47             +39.96     +0.00
+
++68         15315  BK CL 5" BUN    EA                006340015315         5.40  +1.4500     73.15             +98.60     +0.00
+
++24         15317  BK CL 6.5" BUN  EA                006340015317         4.19  +1.6000     61.81             +38.40     +0.00
+
++110                                                               +583.50                  69.67         +176.96        +0.00
+AREA#       401                RTE#    401105                          SLS#     401105                    PAGE  2
+
+3254635 NS LIMITED.                                                                              DATE  October 14, 2022
+
+                                                3254635 NS LIMITED.                              DOC #00024011051960
+
+                                           INDEPENDENT DIST. OF
+
+                                                WONDER BRANDS                   Please remit payment to:
+
+                                           CONT : MARC MCDONALD                 Wonder Brands Inc.
+
+                                                     PH# 902 529 0565           C/O T10534
+
+                                                CSR# 1 800 922 1896             PO BOX 4388, STN A
+
+                                           HST# 807655402RT0001                 TORONTO, ON, M5W 3S1
+
+                                                                                GST: 76253 8742 RT0001
+
+                               INVOICE # 00024011051960
+
+CUST#       5412     70816  Ship to: BURGER KING #19926                         Bill to: CAPE D'OR HOLDINGS LIMITED
+
+PO NUMBER:                     1 FALKLAND ST                                            3617 BARRINGTON ST
+
+                               LUNENBURG, NS, B0J 2C0                                   HALIFAX, NS, B3K 2Y3
+
+                                                           TTL RETAIL           LIST PRICE       ALLOWANCE      NET   AMOUNT
+
+                     RETURNS                                           +0.00            +0.00          +0.00             +0.00
+
+                     BUYBACKS                                          +0.00            +0.00          +0.00             +0.00
+
+                     SALES                                             +583.50          +176.96        +0.00          +176.96
+
+                     CONTAINERS DELIVERED (IN)                         +0.00            +0.00          +0.00             +0.00
+
+                     CONTAINERS PICKED UP (OUT)                        +0.00            +0.00          +0.00             +0.00
+
+                     NET SALES BEFORE TAX                                                                             +176.96
+
+                     TOTAL TAX (i.e. GST, HST, QST)                                                                      +0.00
+
+                                                                                                                      +176.96
+
+                     NET DUE THIS INVOICE
+
+                     TOTAL AMOUNT DUE                                           CHARGE                                +176.96
+
+                                                     COPY
+
+                                           SIGNATURE
+

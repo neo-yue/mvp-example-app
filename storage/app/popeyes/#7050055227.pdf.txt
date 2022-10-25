@@ -1,0 +1,73 @@
+REMIT TO:
+
+Popeyes      Louisiana                 Kitchen
+
+5707      Blue         Lagoon  Drive
+
+Miami,FL.              33126
+
+INVOICE TO:
+
+WP        HOLDINGS     LIMITED
+
+1741       LOWER       WATER   STREET      ,    SUITE  600                Accounts Receivable Help Desk
+
+HALIFAX      NS        B3J     0J2                                        GBSRequest@rbi.com
+
+CANADA
+
+          Account No.                  Invoice Date                       Document No.                   Page
+
+          8101500                      04/24/22                           7050055227                     1/2
+
+                       Description                          Amount                      Tax Code              Tax
+
+ROYALTY 22013966 04/18/22 TO 04/24/22                       1,178.12                    O0               0.00
+
+                              SUB TOTAL                     1,178.12      CAD
+
+                                       TAX                          0.00  CAD
+
+DUE DATE                       TOTAL DUE                    1,178.12      CAD
+
+05/24/22
+
+             Tax       Code            Description
+
+             O0                        US  A/R       Sales  Tax  Exempt
+
+             O0                        US  A/R       Sales  Tax  Exempt
+
+             O0                        US  A/R       Sales  Tax  Exempt
+REMIT TO:
+
+Popeyes          Louisiana      Kitchen
+
+5707  Blue       Lagoon      Drive
+
+Miami,FL.        33126
+
+INVOICE TO:
+
+WP  HOLDINGS          LIMITED
+
+1741       LOWER      WATER  STREET  ,   SUITE    600                Accounts Receivable Help Desk
+
+HALIFAX          NS   B3J    0J2                                     GBSRequest@rbi.com
+
+CANADA
+
+    Account No.                     Invoice Date                     Document No.                         Page
+
+    8101500                         04/24/22                         7050055227                           2/2
+
+INVOICE ANALYSIS
+
+______________________________________________________________________
+
+Restaurant Name       Rest.No.    Sales Amt       Rev.Type  Rev.Amt  Ex.Rt.        Rev %            Est.
+
+______________________________________________________________________
+
+HOGAN COURT PLAZA BE  22013966      23562.47      ROYALTY   1178.12                      5.00
+

@@ -10,7 +10,8 @@ MVP Example App is a Laravel application which imports invoice records into a da
 
 ## Installation
 
-- git clone [URL]
+- git clone git@github.com:fleetnova/mvp-example-app.git
+- cd mvp-example-app
 - composer install
 - php artisan migrate
 

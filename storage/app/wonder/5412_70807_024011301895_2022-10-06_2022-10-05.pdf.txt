@@ -1,0 +1,97 @@
+AREA#       401                        RTE#  401130                        SLS#   401130                    PAGE        1
+
+0646747 NB LTD                                                                                 DATE   October 05, 2022
+
+                                                         0646747 NB LTD                        DOC #00024011301895
+
+                                             INDEPENDENT DIST. OF
+
+                                                         WONDER BRANDS            Please remit payment to:
+
+                                                         15 NEW LINE ROAD         Wonder Brands Inc.
+
+                                                         SUSSEX CORNER            C/O TX4099C
+
+                                                         NB E4E 2X9               PO BOX 4590, STN A
+
+                                             CONT:CARL CLARKSON                   TORONTO, ON, M5W 7B1
+
+                                                         PH# 506-432-0429         GST: 76253 8742 RT0001
+
+                                             HST# 847404860RT0001
+
+                                            INVOICE # 00024011301895
+
+CUST#       5412   70807         Ship  to:  BURGER KING #18615                    Bill to: CAPE D'OR HOLDINGS LIMITED
+
+PO NUMBER:                                  180 MAIN ST                                   3617 BARRINGTON ST
+
+                                            SUSSEX, NB, E4E 3E2                           HALIFAX, NS, B3K 2Y3
+
+                                                         SALES
+
+UNITS       ITEM   DESCRIPTION                           UPC               RTL W-SALE COST  MARGIN%   AMOUNT               TAX
+
++48         1219   BK 3.5" SESAME HAMS 12s               006340001219      6.43   +2.2200      65.47        +106.56        +0.00
+
++104        15315  BK CL 5" BUN    EA                    006340015315      5.40   +1.4500      73.15        +150.80        +0.00
+
++32         15317  BK CL 6.5" BUN  EA                    006340015317      4.19   +1.6000      61.81            +51.20     +0.00
+
++184                                                                   +1,004.32               69.28        +308.56        +0.00
+AREA#       401                RTE#  401130                         SLS#     401130                    PAGE  2
+
+0646747 NB LTD                                                                                DATE  October 05, 2022
+
+                                                  0646747 NB LTD                              DOC #00024011301895
+
+                                        INDEPENDENT DIST. OF
+
+                                                 WONDER BRANDS               Please remit payment to:
+
+                                                 15 NEW LINE ROAD            Wonder Brands Inc.
+
+                                                  SUSSEX CORNER              C/O TX4099C
+
+                                                  NB E4E 2X9                 PO BOX 4590, STN A
+
+                                        CONT:CARL CLARKSON                   TORONTO, ON, M5W 7B1
+
+                                                  PH# 506-432-0429           GST: 76253 8742 RT0001
+
+                                        HST# 847404860RT0001
+
+                                    INVOICE # 00024011301895
+
+CUST#       5412  70807  Ship  to:  BURGER KING #18615                       Bill to: CAPE D'OR HOLDINGS LIMITED
+
+PO NUMBER:                          180 MAIN ST                                      3617 BARRINGTON ST
+
+                                    SUSSEX, NB, E4E 3E2                              HALIFAX, NS, B3K 2Y3
+
+                                                              TTL RETAIL     LIST PRICE       ALLOWANCE      NET   AMOUNT
+
+                  RETURNS                                           +0.00            +0.00          +0.00             +0.00
+
+                  BUYBACKS                                          +0.00            +0.00          +0.00             +0.00
+
+                  SALES                                           +1,004.32          +308.56        +0.00          +308.56
+
+                  CONTAINERS DELIVERED (IN)                         +0.00            +0.00          +0.00             +0.00
+
+                  CONTAINERS PICKED UP (OUT)                        +0.00            +0.00          +0.00             +0.00
+
+                  NET SALES BEFORE TAX                                                                             +308.56
+
+                  TOTAL TAX (i.e. GST, HST, QST)                                                                      +0.00
+
+                                                                                                                   +308.56
+
+                  NET DUE THIS INVOICE
+
+                  TOTAL AMOUNT DUE                                           CHARGE                                +308.56
+
+                                                  COPY
+
+                                        SIGNATURE
+
